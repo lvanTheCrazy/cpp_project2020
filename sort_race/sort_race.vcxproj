@@ -147,17 +147,76 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="heap_sort_by_Polyakov.cpp" />
+    <ClCompile Include="KononenkoTeamDataset.cpp" />
+    <ClCompile Include="merge_sort_by_Iliushik.cpp" />
+    <ClCompile Include="shell_sort_by_Kamenshchikov.cpp" />
+    <ClCompile Include="binaryheap_bySalikhova.cpp" />
+    <ClCompile Include="combSortByIsmailova.cpp" />
+    <ClCompile Include="CombSortByKononenko.cpp" />
+    <ClCompile Include="mergeSortByMalakhov.cpp" />
+    <ClCompile Include="MergSortByBurlin.cpp" />
+    <ClCompile Include="quickSortByAhmatzyanov.cpp" />
+    <ClCompile Include="CombSortBySuleimenovaZh.cpp" />
+    <ClCompile Include="QuickSort_Efimenko.cpp" />
+    <ClCompile Include="RadixSort_by_Shekhovtsova.cpp" />
+    <ClCompile Include="Shekhovtsova_team_dataset.cpp" />
+    <ClCompile Include="QuicksortbyMaltsev.cpp" />
+    <ClCompile Include="ShellSort_by_Skriplyuk.cpp" />
+    <ClCompile Include="countingSortByTkachev.cpp" />
+    <ClCompile Include="HeapSortByKulagina.cpp" />
+    <ClCompile Include="Merge_sort_by_Kotova.cpp" />
+    <ClCompile Include="Quick_Sort_by_Karyagin.cpp" />
+    <ClCompile Include="CombSort_by_Schekotovskaya.cpp" />
+    <ClCompile Include="MergeSort_by_Badeev.cpp" />
+    <ClCompile Include="QuickSort_by_Knyazkin.cpp" />
+    <ClCompile Include="flapuitn_datasets.cpp" />
+    <ClCompile Include="quick_sort_by_Shabalinov.cpp" />
+    <ClCompile Include="TkachevTeamDataset.cpp" />
+    <ClCompile Include="timsortByTaishev.cpp" />
+    <ClCompile Include="TreeSortByIssabek.cpp" />
     <ClCompile Include="merge_sort_by_Vasiutin.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BitonicSort_Sharnin.h" />
+    <ClInclude Include="DataGenerators.h" />
+    <ClInclude Include="HeapSort_Gabrielian.h" />
+    <ClInclude Include="MergeSort_Shuranskiy.h" />
+    <ClInclude Include="QuickSort_Pashayan.h" />
+    <ClCompile Include="Danilova_datasets.cpp" />
+    <ClCompile Include="Insertion_sort_Stepuro.cpp" />
+    <ClCompile Include="merge_sort_by_danilova.cpp" />
+    <ClCompile Include="Quick_sort_by_Byankina.cpp" />
+    <ClCompile Include="Selection_Sort_by_Igoshkina.cpp" />
+    <ClCompile Include="heapsort_by_makarov.cpp" />
+    <ClCompile Include="InsertsortBySafonov.cpp" />
+    <ClCompile Include="mergSortByPulkov.cpp" />
+    <ClCompile Include="quickSortBySimonov.cpp" />
+    <ClCompile Include="shellSortByChiganov.cpp" />
+    <ClCompile Include="smoothSamedov.cpp" />
+    <ClCompile Include="RadixSortLSD_by_Absalyamov.cpp" />
+    <ClCompile Include="shakersortbyTolstykh.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="quick_sort_by_gerasimoff.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tim_sort_by_shilakin.cpp" />
+    <ClCompile Include="CombSort_Dimova.cpp" />
+    <ClCompile Include="quick_sort_by_Makeev.cpp" />
+    <ClCompile Include="SelectSort_Klisunova.cpp" />
+    <ClCompile Include="ShellSort_Kirillov.cpp" />
+    <ClCompile Include="AfanasevInsertSoft.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
+    <ClInclude Include="Timsort_by_Seregin.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
     <ClInclude Include="DataSets.h" />
     <ClInclude Include="Participants.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="heap_sort_bottomup_by_Laputin.h" />
+    <ClInclude Include="QuickSort_by_Ageenko.h" />
+    <ClInclude Include="Merge_sort_by_Niyazmuhammedow.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
